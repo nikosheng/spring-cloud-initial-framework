@@ -1,0 +1,11 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:8761/eureka
+server:
+  port: 9000
+cloud-provider:
+  ribbon:
+    #NFLoadBalancerRuleClassName: eureka.rule.MyRule
+    NFLoadBalancerPingClassName: eureka.ping.MyPing
+    listOfServers: http://localhost:8081,http://localhost:8082

@@ -1,0 +1,10 @@
+server:
+  port: 8761
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    service-url:
+      defaultZone: http://server2:8762/eureka
+  instance:
+    hostname: server1

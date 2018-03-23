@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-invoker/spring-cloud-eureka-invoker.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-invoker/spring-cloud-eureka-invoker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-websocket/spring-websocket.iml" filepath="$PROJECT_DIR$/spring-websocket/spring-websocket.iml" />
+    </modules>
+  </component>
+</project>

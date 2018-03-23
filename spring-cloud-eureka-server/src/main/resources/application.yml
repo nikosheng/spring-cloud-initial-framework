@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cloud-server
+  profiles:
+    active: server1
+

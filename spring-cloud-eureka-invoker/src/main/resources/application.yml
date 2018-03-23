@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: invoker-server
+  profiles:
+    active: invoker1
